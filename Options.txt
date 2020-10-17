@@ -1,0 +1,2 @@
+Snake color : 8yr with a,d
+go down with w,s :

@@ -1,0 +1,20 @@
+
+
+
+							Game Rules
+
+
+				1) You Can Change The Console Size In The Main Menu which
+					Changes Broder (Game Looks Best Without Change).
+
+				2) You Control The Snake Movement With W-A-S-D.
+
+				3) Hitting The Border Or Your Tail Causes The Game To End.
+
+				4) Eating The Red Apple Causes The Snake To Get Taller.
+
+				5) In Hard Endless Snake Gets Smaller Over Time
+
+				6) In Borderless Endless Half Of Rule #3 Dosen't Apply
+
+						Press Any Key To Continue...
